@@ -1,6 +1,6 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Building a world starts with a spark, deep in our mind
+description: We all want to build amazing stories, wonderful worlds, com...
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+We all want to build amazing stories, wonderful worlds, compelling characters -- but what does that mean? And what work does that take? This is something I've spent a lot of time thinking about, playing with, and diving into the depths of. I don't know everything [yet], but I have a few stories to tell. Welcome to my blog where I'll share some of those.
