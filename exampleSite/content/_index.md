@@ -3,4 +3,4 @@ title: Building a world starts with a spark, deep in our minds
 description: We all want to build amazing stories, wonderful worlds, com...
 ---
 
-We all want to build amazing stories, wonderful worlds, compelling characters -- but what does that mean? And what work does that take? This is something I've spent a lot of time thinking about, playing with, and diving into the depths of. I don't know everything (yet), but I have a few stories to tell. Welcome to the blog where I'll share some.
+We all want to build amazing stories, wonderful worlds, compelling characters -- but what does that look like? What is "amazing", "wonderful" and "compelling." Well, I've spent over a decade and a half thinking about that question and the answers... still elude me. But! I've learned a lot and figured it's time to start sharing. Welcome aboard!
