@@ -2,12 +2,12 @@
   --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'Poppins', sans-serif" }};
   --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'Helvetica', sans-serif" }};
   --font-family-monospace: {{ .Site.Params.fontFamilyMonospace | default "monospace" }};
-  --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
-  --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
-  --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};
-  --heading-color: {{ .Site.Params.headingColor | default "#1c1b1d" }};
-  --text-color: {{ .Site.Params.textColor | default "#4e5157" }};
-  --dot-color: {{ .Site.Params.dotColor | default "#7b16ff" }};
+  --base-color: {{ .Site.Params.baseColor | default "#0D0C0C" }};
+  --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#141313" }};
+  --highlight-color: {{ .Site.Params.highlightColor | default "#E9B9D1" }};
+  --heading-color: {{ .Site.Params.headingColor | default "#F2EDEC" }};
+  --text-color: {{ .Site.Params.textColor | default "#C4BBB9" }};
+  --dot-color: {{ .Site.Params.dotColor | default "#E9B9D1" }};
 }
 
 $breakpoints: (
